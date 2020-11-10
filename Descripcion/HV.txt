@@ -1,0 +1,3 @@
+Este ejercicio se realiza con el objetivo de crear priemer repositorio con control de cambios y uso de ramas.
+
+Contiene informacion de mi pagina web que contiene mi Curriculum como Ingniera Electricista.
